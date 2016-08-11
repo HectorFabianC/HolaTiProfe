@@ -1,0 +1,1 @@
+/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/Resources/app.js

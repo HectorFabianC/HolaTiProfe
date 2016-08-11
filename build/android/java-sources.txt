@@ -1,0 +1,8 @@
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/android/support/v7/cardview/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/mx/uam/izt/holatiprofe/AssetCryptImpl.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/mx/uam/izt/holatiprofe/HolatiprofeActivity.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/mx/uam/izt/holatiprofe/HolatiprofeAppInfo.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/mx/uam/izt/holatiprofe/HolatiprofeApplication.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/mx/uam/izt/holatiprofe/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/HolaTiProfe/build/android/gen/ti/modules/titanium/ui/R.java"
